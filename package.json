@@ -1,0 +1,25 @@
+{
+  "name": "@jjpmann/how-to-npm",
+  "version": "1.0.0",
+  "description": "nodeschool learning",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jjpmann/how-to-npm.git"
+  },
+  "keywords": [
+    "nodeschool"
+  ],
+  "author": "Jerry Price",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jjpmann/how-to-npm/issues"
+  },
+  "homepage": "https://github.com/jjpmann/how-to-npm#readme",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  }
+}
